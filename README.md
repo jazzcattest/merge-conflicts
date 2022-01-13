@@ -1,4 +1,4 @@
-TEST TEST TEST 1 1 1 2 2 2
+TEST TEST TEST 1 1 1
 
 ### Your GitHub Learning Lab Repository for Managing Merge Conflicts
 
@@ -16,4 +16,4 @@ I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [resume-template](https://github.com/jglovier/resume-template). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
 
-TEST TEST TEST 1 1 1 2 2 2
+TEST TEST TEST 1 1 1
