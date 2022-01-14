@@ -1,3 +1,5 @@
+TEST TEST TEST 1 1 1 2 2 2
+
 ### Your GitHub Learning Lab Repository for Managing Merge Conflicts
 
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
@@ -13,3 +15,5 @@ I'll meet you over there, can't wait to get started!
 > There are already some Pull Requests open, you will work on those later in the course.
 
 This course is using the :sparkles: open source project [resume-template](https://github.com/jglovier/resume-template). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+
+TEST TEST TEST 1 1 1 2 2 2
